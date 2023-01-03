@@ -1,0 +1,135 @@
+{
+    "header":{
+        "version":1
+    },
+    "data":[
+        {
+            "info":{
+                "locale":"en"
+            },
+            "messages":{
+                "LOGIN SKIP":"SKIPPING LOGIN WILL PREVENT THE GAME FROM SAVING YOUR GAMEPLAY PROGRESS",
+                "INST0":"Tap anywhere on the screen to keep Patrick Star afloat to the end of the stage. Though every tap cost an amount of stamina, be wise!",
+                "INST1":"Though every tap cost an amount of stamina, be wise! Tap anywhere on the screen to keep Patrick Star afloat to the end of the stage.",
+                "INST2":"Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Play!"
+            }
+        },
+        {
+            "info":{
+                "locale":"zh-sc"
+            },
+            "messages":{
+                "GAME START":"游戏开始",
+                "SETTINGS":"设置",
+                "LANGUAGE":"语言",
+                "SOUND EFFECTS":"音效",
+                "BACKGROUND MUSIC":"背景音乐",
+                "OFF":"关",
+                "ON":"开",
+                "PRIVACY":"隐私",
+                "SUPPORT":"支持",
+                "FAQ":"常见问题",
+                "LEADERBOARD":"排行榜",
+                "LOGIN":"登录",
+                "REGISTER":"注册",
+                "NEW REGISTER":"注册",
+                "USERNAME":"用户名",
+                "PASSWORD":"密码",
+                "PASSWORD AGAIN":"再次密码",
+                "EMAIL":"电子邮件",
+                "FORGOT PASSWORD":"忘记密码",
+                "SKIP":"跳过",
+                "CONFIRM":"确认",
+                "OK":"好的",
+                "LOGIN SKIP":"跳过登录将阻止游戏保存进度",
+                "HOW TO PLAY":"怎么玩",
+                "INST0":"点击屏幕上的任意位置，让帕特里克星漂浮到舞台的尽头。虽然每次点击都会消耗一定的体力，但要明智！",
+                "INST1":"让帕特里克星漂浮到舞台的尽头。虽然每次点击都会消耗一定的体力，但要明智！点击屏幕上的任意位置，",
+                "INST2":"虽然每次点击都会消耗一定的体力，但要明智！点击屏幕上的任意位置，让帕特里克星漂浮到舞台的尽头。",
+                "SPECIAL POWER":"特殊力量",
+                "YOUR BONUS":"你的奖金",
+                "CONGRATULATIONS":"恭喜",
+                "TOTAL SCORE":"总分",
+                "GAME OVER":"游戏结束"
+            }
+        },
+        {
+            "info":{
+                "locale":"zh-tc"
+            },
+            "messages":{
+                "GAME START":"遊戲開始",
+                "SETTINGS":"設置",
+                "LANGUAGE":"語言",
+                "SOUND EFFECTS":"音效",
+                "BACKGROUND MUSIC":"背景音樂",
+                "OFF":"關",
+                "ON":"開",
+                "PRIVACY":"隱私",
+                "SUPPORT":"支持",
+                "FAQ":"常見問題",
+                "LEADERBOARD":"排行榜",
+                "LOGIN":"登錄",
+                "REGISTER":"註冊",
+                "NEW REGISTER":"註冊",
+                "USERNAME":"用戶名",
+                "PASSWORD":"密碼",
+                "PASSWORD AGAIN":"再次密碼",
+                "EMAIL":"電子郵件",
+                "FORGOT PASSWORD":"忘記密碼",
+                "SKIP":"跳過",
+                "CONFIRM":"確認",
+                "OK":"好的",
+                "LOGIN SKIP":"跳過登錄將阻止遊戲保存進度",
+                "HOW TO PLAY":"怎麼玩",
+                "INST0":"點擊屏幕上的任意位置，讓帕特里剋星漂浮到舞台的盡頭。雖然每次點擊都會消耗一定的體力，但要明智！",
+                "INST1":"讓帕特里剋星漂浮到舞台的盡頭。雖然每次點擊都會消耗一定的體力，但要明智！點擊屏幕上的任意位置，",
+                "INST2":"雖然每次點擊都會消耗一定的體力，但要明智！點擊屏幕上的任意位置，讓帕特里剋星漂浮到舞台的盡頭。",
+                "SPECIAL POWER":"特殊力量",
+                "YOUR BONUS":"你的獎金",
+                "CONGRATULATIONS":"恭喜",
+                "TOTAL SCORE":"總分",
+                "GAME OVER":"遊戲結束"
+            }
+        },
+        {
+            "info":{
+                "locale":"ja"
+            },
+            "messages":{
+                "GAME START":"試合開始",
+                "SETTINGS":"設定",
+                "LANGUAGE":"言語",
+                "SOUND EFFECTS":"効果音",
+                "BACKGROUND MUSIC":"音楽",
+                "OFF":"近い",
+                "ON":"開いた",
+                "PRIVACY":"プライバシー",
+                "SUPPORT":"サポート",
+                "FAQ":"よくある問題",
+                "LEADERBOARD":"リーダーボード",
+                "LOGIN":"ログイン",
+                "REGISTER":"登録",
+                "NEW REGISTER":"登録",
+                "USERNAME":"ユーザー名",
+                "PASSWORD":"パスワード",
+                "PASSWORD AGAIN":"パスワードをもう一度",
+                "EMAIL":"EMAIL",
+                "FORGOT PASSWORD":"パスワードをお忘れですか",
+                "SKIP":"飛び越える",
+                "CONFIRM":"確認",
+                "OK":"わかった",
+                "LOGIN SKIP":"ログインをスキップすると、ゲームの進行状況が保存されなくなります",
+                "HOW TO PLAY":"遊び方",
+                "INST0":"画面の任意の場所をタップして、パトリックの星をステージの最後まで浮かせます。クリックするたびに一定量のスタミナが消費されますが、注意してください。",
+                "INST1":"クリックするたびに一定量のスタミナが消費されますが、注意してください。画面の任意の場所をタップして、パトリックの星をステージの最後まで浮かせます。",
+                "INST2":"画面の任意の場所をタップして、クリックするたびに一定量のスタミナが消費されますが、注意してください。パトリックの星をステージの最後まで浮かせます。",
+                "SPECIAL POWER":"特別な力",
+                "YOUR BONUS":"あなたのボーナス",
+                "CONGRATULATIONS":"おめでとう",
+                "TOTAL SCORE":"合計スコア",
+                "GAME OVER":"ゲームオーバー"
+            }
+        }
+    ]
+}
