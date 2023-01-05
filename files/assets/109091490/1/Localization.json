@@ -9,9 +9,9 @@
             },
             "messages":{
                 "LOGIN SKIP":"SKIPPING LOGIN WILL PREVENT THE GAME FROM SAVING YOUR GAMEPLAY PROGRESS",
-                "INST0":"Tap anywhere on the screen to keep Patrick Star afloat to the end of the stage. Though every tap cost an amount of stamina, be wise!",
-                "INST1":"Though every tap cost an amount of stamina, be wise! Tap anywhere on the screen to keep Patrick Star afloat to the end of the stage.",
-                "INST2":"Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Instructions. Play!"
+                "INST0":"Let's celebrate Patrick in a fun and exciting way in Patrick Year of the Star Game",
+                "INST1":"Tap anywhere on-screen for Patrick Star to swim up. However, every tap reduces his stamina",
+                "INST2":"For every 10,000 points earned, you gain another charge of special power to use"
             }
         },
         {
@@ -19,7 +19,7 @@
                 "locale":"zh-sc"
             },
             "messages":{
-                "GAME START":"游戏开始",
+                "GAME START":"开始游戏",
                 "SETTINGS":"设置",
                 "LANGUAGE":"语言",
                 "SOUND EFFECTS":"音效",
@@ -28,7 +28,6 @@
                 "ON":"开",
                 "PRIVACY":"隐私",
                 "SUPPORT":"支持",
-                "FAQ":"常见问题",
                 "LEADERBOARD":"排行榜",
                 "LOGIN":"登录",
                 "REGISTER":"注册",
@@ -50,7 +49,14 @@
                 "YOUR BONUS":"你的奖金",
                 "CONGRATULATIONS":"恭喜",
                 "TOTAL SCORE":"总分",
-                "GAME OVER":"游戏结束"
+                "GAME OVER":"游戏结束",
+                "PLEASE FILL ALL FIELDS":"请全部填写",
+                "PASSWORDS DON'T MATCH":"密码不相同",
+                "PASSWORD IS TOO SHORT":"密碼太短",
+                "INVALID REGISTER":"注册无效",
+                "INVALID LOGIN":"登录无效",
+                "LOGIN SUCCESSFUL":"登录成功",
+                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"已注册，请验证您的电邮"
             }
         },
         {
@@ -58,7 +64,7 @@
                 "locale":"zh-tc"
             },
             "messages":{
-                "GAME START":"遊戲開始",
+                "GAME START":"開始遊戲",
                 "SETTINGS":"設置",
                 "LANGUAGE":"語言",
                 "SOUND EFFECTS":"音效",
@@ -66,8 +72,7 @@
                 "OFF":"關",
                 "ON":"開",
                 "PRIVACY":"隱私",
-                "SUPPORT":"支持",
-                "FAQ":"常見問題",
+                "SUPPORT":"支援",
                 "LEADERBOARD":"排行榜",
                 "LOGIN":"登錄",
                 "REGISTER":"註冊",
@@ -75,21 +80,28 @@
                 "USERNAME":"用戶名",
                 "PASSWORD":"密碼",
                 "PASSWORD AGAIN":"再次密碼",
-                "EMAIL":"電子郵件",
+                "EMAIL":"電郵",
                 "FORGOT PASSWORD":"忘記密碼",
                 "SKIP":"跳過",
                 "CONFIRM":"確認",
-                "OK":"好的",
-                "LOGIN SKIP":"跳過登錄將阻止遊戲保存進度",
-                "HOW TO PLAY":"怎麼玩",
-                "INST0":"點擊屏幕上的任意位置，讓帕特里剋星漂浮到舞台的盡頭。雖然每次點擊都會消耗一定的體力，但要明智！",
-                "INST1":"讓帕特里剋星漂浮到舞台的盡頭。雖然每次點擊都會消耗一定的體力，但要明智！點擊屏幕上的任意位置，",
-                "INST2":"雖然每次點擊都會消耗一定的體力，但要明智！點擊屏幕上的任意位置，讓帕特里剋星漂浮到舞台的盡頭。",
+                "OK":"確認",
+                "LOGIN SKIP":"若跳過登錄遊戲紀錄將無法保存",
+                "HOW TO PLAY":"遊戲說明",
+                "INST0":"讓我們由興奮和好玩的遊戲慶祝派大星吧！",
+                "INST1":"任意點擊屏幕上的位置使Patrick Star 能夠在海中游走，但注意：每次點擊都會降低他的生命值！",
+                "INST2":"每關贏得10,000點 ，您將額外獲得一次使用特別能力的機會",
                 "SPECIAL POWER":"特殊力量",
                 "YOUR BONUS":"你的獎金",
-                "CONGRATULATIONS":"恭喜",
+                "CONGRATULATIONS":"恭喜！",
                 "TOTAL SCORE":"總分",
-                "GAME OVER":"遊戲結束"
+                "GAME OVER":"遊戲結束",
+                "PLEASE FILL ALL FIELDS":"請全部填寫",
+                "PASSWORDS DON'T MATCH":"密码不相同",
+                "PASSWORD IS TOO SHORT":"密码太短",
+                "INVALID REGISTER":"註冊無效",
+                "INVALID LOGIN":"登錄無效",
+                "LOGIN SUCCESSFUL":"登錄成功",
+                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"已註冊，請驗證您的電郵"
             }
         },
         {
@@ -97,7 +109,7 @@
                 "locale":"ja"
             },
             "messages":{
-                "GAME START":"試合開始",
+                "GAME START":"スタート",
                 "SETTINGS":"設定",
                 "LANGUAGE":"言語",
                 "SOUND EFFECTS":"効果音",
@@ -105,30 +117,36 @@
                 "OFF":"近い",
                 "ON":"開いた",
                 "PRIVACY":"プライバシー",
-                "SUPPORT":"サポート",
-                "FAQ":"よくある問題",
-                "LEADERBOARD":"リーダーボード",
+                "SUPPORT":"ヘルプ",
+                "LEADERBOARD":"ランキング",
                 "LOGIN":"ログイン",
                 "REGISTER":"登録",
                 "NEW REGISTER":"登録",
                 "USERNAME":"ユーザー名",
                 "PASSWORD":"パスワード",
                 "PASSWORD AGAIN":"パスワードをもう一度",
-                "EMAIL":"EMAIL",
-                "FORGOT PASSWORD":"パスワードをお忘れですか",
-                "SKIP":"飛び越える",
+                "EMAIL":"メール",
+                "FORGOT PASSWORD":"パスワードを忘れた場合",
+                "SKIP":"スキップ",
                 "CONFIRM":"確認",
-                "OK":"わかった",
-                "LOGIN SKIP":"ログインをスキップすると、ゲームの進行状況が保存されなくなります",
-                "HOW TO PLAY":"遊び方",
-                "INST0":"画面の任意の場所をタップして、パトリックの星をステージの最後まで浮かせます。クリックするたびに一定量のスタミナが消費されますが、注意してください。",
-                "INST1":"クリックするたびに一定量のスタミナが消費されますが、注意してください。画面の任意の場所をタップして、パトリックの星をステージの最後まで浮かせます。",
-                "INST2":"画面の任意の場所をタップして、クリックするたびに一定量のスタミナが消費されますが、注意してください。パトリックの星をステージの最後まで浮かせます。",
+                "OK":"確認",
+                "LOGIN SKIP":"登録を省略すると記録が保存できません",
+                "HOW TO PLAY":"ゲーム説明",
+                "INST0":"ゲーム　パトリック・イヤー・オフ・ザ・スターに参加してみんなでパトリックをお祝いしよう！",
+                "INST1":"画面の任意の場所にタップするとパトリック・スターが海に泳げる。ただし毎回タップするとHPが減る!",
+                "INST2":"10,000ポイント毎に獲得すると特殊能力が使える",
                 "SPECIAL POWER":"特別な力",
                 "YOUR BONUS":"あなたのボーナス",
-                "CONGRATULATIONS":"おめでとう",
+                "CONGRATULATIONS":"おめでとうございます！",
                 "TOTAL SCORE":"合計スコア",
-                "GAME OVER":"ゲームオーバー"
+                "GAME OVER":"ゲームオーバー",
+                "PLEASE FILL ALL FIELDS":"全ての項目を埋めてください",
+                "PASSWORDS DON'T MATCH":"パスワードが一致していません",
+                "PASSWORD IS TOO SHORT":"パスワードが短すぎます",
+                "INVALID REGISTER":"無効なレジスタ",
+                "INVALID LOGIN":"無効なログイン",
+                "LOGIN SUCCESSFUL":"登録成功",
+                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"登録された、メールを確認してください"
             }
         }
     ]
