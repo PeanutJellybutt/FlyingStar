@@ -57,7 +57,7 @@
                 "INVALID REGISTER":"注册无效",
                 "INVALID LOGIN":"登录无效",
                 "LOGIN SUCCESSFUL":"登录成功",
-                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"已注册，请验证您的电邮"
+                "REGISTRATION SUCCESSFUL":"注册成功"
             }
         },
         {
@@ -103,7 +103,7 @@
                 "INVALID REGISTER":"註冊無效",
                 "INVALID LOGIN":"登錄無效",
                 "LOGIN SUCCESSFUL":"登錄成功",
-                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"已註冊，請驗證您的電郵"
+                "REGISTRATION SUCCESSFUL":"註冊成功"
             }
         },
         {
@@ -149,7 +149,7 @@
                 "INVALID REGISTER":"無効なレジスタ",
                 "INVALID LOGIN":"無効なログイン",
                 "LOGIN SUCCESSFUL":"登録成功",
-                "REGISTERED, PLEASE VERIFY YOUR EMAIL":"登録された、メールを確認してください"
+                "REGISTRATION SUCCESSFUL":"登録に成功しました"
             }
         }
     ]
