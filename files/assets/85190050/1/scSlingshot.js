@@ -102,7 +102,8 @@ ScSlingshot.prototype.onCharge = function(event)
     //
     this.slingPart.fire("charge");
     this.patrick.reparent(this.sling);
-    this.patrick.setLocalPosition(0,0,0);
+    this.patrick.setLocalPosition(0.15,0.3,0);
+    this.patrick.setLocalEulerAngles(0,0,-20);
     this.patrick.sprite.sprite = this.app.assets.find("sPatrickBounce","sprite").resource;
 
     //

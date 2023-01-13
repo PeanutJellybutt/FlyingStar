@@ -50,7 +50,7 @@ ScLeaderboard.prototype.initialize = function()
         self.clear();
 
         let board = self.board;
-        let n = data.length;
+        let n = Math.min(data.length,5);
         let y = 0;
         for (let i = 0; i < n; i++)
         {

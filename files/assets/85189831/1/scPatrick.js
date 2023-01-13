@@ -200,7 +200,10 @@ ScPatrick.prototype.update = function(dt)
         else if (this.ouchieTime > 0 && Math.random() < this.ouchieTime/1.5)
             this.director.fire("stars",pos.x,pos.y,0);
         else if (this.slowTime > 0 && Math.random() < this.slowTime/2)
+        {
             this.director.fire("stars",pos.x,pos.y,1);
+            this.director.fire("bubs",pos.x,pos.y,0.5,false,2);
+        }
         else this.director.fire("bubs",pos.x,pos.y,0.5);
     }
 
@@ -643,7 +646,7 @@ ScPatrick.prototype.collideJellyfish = function(jelly,x,y)
         this.ouchieEnd();
 
         this.entity.sprite.play("Bounce");
-        this.trail.sprite.play("BounceSmall");
+        this.trail.sprite.play("Bounce");
         this.trailPower = 2;
         jelly.sprite.play("Bounce");
         this.entity.sound.play("Bounce");
@@ -765,7 +768,7 @@ ScPatrick.prototype.tapSpecial = function(special)
 
         this.ouchieTime = 3;
         this.entity.sprite.play("Boost");
-        this.trail.sprite.play("Urchin");
+        this.trail.sprite.play("Boosted");
         this.trailPower = 2;
         this.entity.setLocalEulerAngles(0,0,0);
         this.trail.setLocalEulerAngles(0,0,0);

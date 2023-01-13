@@ -35,12 +35,20 @@ ScSlingStrings.prototype.stretch = function(anchorX, anchorY)
 
     //
     this.entity.sprite.frame = 0;
-    let sy = 1/d;
+    let sy = 1;
     if (d < 1)
     {
-        sy = 1;
-        if (d < 0.75)
+        if (d < 0.5)
+        {
+            d *= 2;
             this.entity.sprite.frame = 1;
+        }
+        else if (d < 0.25)
+        {
+            d *= 4;
+            this.entity.sprite.frame = 2;
+        }
     }
+    else sy = 1/d;
     this.entity.setLocalScale(d,sy,1);
 };
